@@ -1,6 +1,6 @@
 # Hi, I'm Sunil Roat 👋
 
-A motivated Computer Science and Engineering student at the Indian Institute of Information Technology, Jabalpur (IIIT-J), and a Backend Developer at FUSION. I specialize in building scalable, high-performance web applications and love tackling complex algorithmic challenges.
+A Computer Science and Engineering student at the Indian Institute of Information Technology, Jabalpur (IIIT-J), and a Backend Developer at FUSION. I specialize in building scalable, high-performance web applications and love tackling complex algorithmic challenges.
 
 ---
 
